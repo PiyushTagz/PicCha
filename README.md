@@ -1,6 +1,6 @@
 # PicCha Image Gallery
 
-Welcome to the PicCha Image Gallery project! This repository contains the source code for a responsive image gallery with a stylish navigation bar. The project demonstrates the use of HTML, CSS, and responsive design techniques.
+Welcome to the PicCha Image Gallery project! This repository contains the source code for a responsive image gallery with a stylish navigation bar. The project  demonstrates the use of HTML, CSS, and responsive design techniques.
 
 https://piyushtagz.github.io/PicCha/
 
